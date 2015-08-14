@@ -12,7 +12,9 @@ No! Codeacademy uses a REPL, which stand for Read, Evaluate, Print, and Loop. It
 
 ### Using Nitrous
 
-A container will be created for you as soon as you follow the steps on [learn.co](learn.co/nitrous). Once your container is created, you'll see it in your list of "shared containers." You'll want to click on your container:
+A container will be created for you as soon as you follow the steps on [learn.co](learn.co/nitrous). If you haven't done those steps, please do so now.
+
+Once your container is created, you'll see it in your list of "shared containers." You'll want to click on your container:
 
 <img src="https://s3.amazonaws.com/after-school-assets/nitrous-shared.png">
 
