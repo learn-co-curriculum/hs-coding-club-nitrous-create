@@ -23,7 +23,7 @@ This container represents your virtual machine. Click on the container, then cli
 
 The Nitrous IDE is made up of three parts - a text editor, file browser, and terminal/command line.
 
-![](https://curriculum-content.s3.amazonaws.com/pre-college/teacher-fellowship/nitrous-ide.png)
+<img src="https://s3.amazonaws.com/after-school-assets/nitrous_terminal.png" alt="nitrous">
 
 The main section is our text editor, where we can write our code. It's a text editor just like Microsoft Word or Text Edit, but does some nice features for code like syntax highlighting and closing parenthesis automatically.
 
