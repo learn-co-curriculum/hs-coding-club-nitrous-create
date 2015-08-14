@@ -18,11 +18,12 @@ A container will be created for you as soon as you follow the steps on [learn.co
 
 
 This container represents your virtual machine. Click on the container, then click "IDE" to launch your development environment. 
-<img src="https://s3.amazonaws.com/after-school-assets/nitrous-shared.png">
+
+<img src="https://s3.amazonaws.com/after-school-assets/open-ide.png">
 
 The Nitrous IDE is made up of three parts - a text editor, file browser, and terminal/command line.
 
-<img src="https://s3.amazonaws.com/after-school-assets/nitrous_terminal.png" alt="nitrous">
+![](https://curriculum-content.s3.amazonaws.com/pre-college/teacher-fellowship/nitrous-ide.png)
 
 The main section is our text editor, where we can write our code. It's a text editor just like Microsoft Word or Text Edit, but does some nice features for code like syntax highlighting and closing parenthesis automatically.
 
