@@ -6,9 +6,9 @@ In order to start coding, we need to have a professional development environment
 
 Nitrous is an Integrated Development Environment, or IDE. It's basically a computer that we can control through our web browser that gives us access to all of the tools we need as developers, including a text editor and terminal. This means that we can get started programming quickly from any computer with an internet connection. 
 
-### Is this the same as Codeacademy? 
+### Is this the same as all the other online programming courses I've tried to take?
 
-No! Codeacademy uses a REPL, which stand for Read, Evaluate, Print, and Loop. It provides an interactive interface to try out code and test new languages, like Ruby or Python. Nitrous, on the other hand, is a professional tool for software developers. It creates a virtual machine for you and gives you control of the development environment. You'll use it to build full applications. 
+No! Nitrous is a professional tool for software developers. It creates a virtual machine for you and gives you control of the development environment. You'll use it to build full applications. 
 
 ### Using Nitrous
 
@@ -27,7 +27,7 @@ The Nitrous IDE is made up of three parts - a text editor, file browser, and ter
 
 <img src="https://s3.amazonaws.com/after-school-assets/nitrous_terminal.png" alt="nitrous">
 
-The main section is our text editor, where we can write our code. It's a text editor just like Microsoft Word or Text Edit, but does some nice features for code like syntax highlighting and closing parenthesis automatically.
+The main section is our text editor, where we can write our code. It's a text editor just like Microsoft Word or Text Edit, but is specifically designed for code. It has some awesome features that you'll discover along the way and learn to love.
 
  At the bottom of our window is our terminal/command line. This is how developers control their computer - we can create files, execute code, and navigate through our file structures right from here. 
 
