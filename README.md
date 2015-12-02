@@ -34,3 +34,5 @@ The main section is our text editor, where we can write our code. It's a text ed
  To the left is a file browser - this is a quick visual way to see all of the files in our current directory.
 
  All of this might look a little overwhelming at first, but soon you'll be navigating your environment like a pro!
+
+<a href='https://learn.co/lessons/hs-coding-club-nitrous-create' data-visibility='hidden'>View this lesson on Learn.co</a>
